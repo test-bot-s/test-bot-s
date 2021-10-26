@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/guoqiangqi">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=calm&username=linux&count_private=true&show_icons=true&include_all_commits=true" />
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=calm&username=torvalds&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/guoqiangqi">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=calm&username=linux&layout=compact" />
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=calm&username=torvalds&layout=compact" />
 </a>
